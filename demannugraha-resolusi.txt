@@ -1,0 +1,12 @@
+Resolusi belajar
+
+Belajar bahasa pemrogramman:
+  * Java
+  * Python
+  * R
+  * Javascript
+
+Pilihan Karir:
+  * Data analyst
+  * Web developer
+  * Software developer
